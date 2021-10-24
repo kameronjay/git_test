@@ -1,1 +1,0 @@
-This is kameronjay's first git project!
